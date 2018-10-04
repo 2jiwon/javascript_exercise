@@ -127,7 +127,7 @@ For example 40 presents in 400 and 4000
 56. Write a JavaScript program to divide two positive numbers and return a string with properly formatted commas.
 
 57. Write a JavaScript program to create a new string of specified copies (positive number) of a given string.  
-[img](./img/057.png)  
+![img](./img/057.png)  
 
 58. Write a JavaScript program to create a new string of 4 copies of the last 3 characters of a given original string. The length of the given string must be 3 and above.
 
@@ -154,10 +154,10 @@ For example 40 presents in 400 and 4000
 69. Write a JavaScript program to compute the sum of three elements of a given array of integers of length 3.
 
 70. Write a JavaScript program to rotate the elements left of a given array of integers of length 3. 
-[img](./img/070.png)  
+![img](./img/070.png)  
 
 71. Write a JavaScript program to check if 1 appears in first or last position of a given array of integers. The array length must be greater or equal to 1.  
-[img](./img/071.png)  
+![img](./img/071.png)  
 
 72. Write a JavaScript program to check if the first and last elements are equal of a given array of integers length 3.
 
@@ -166,7 +166,7 @@ For example 40 presents in 400 and 4000
 74. Write a JavaScript program to find the larger value between the first or last and set all the other elements with that value. Display the new array.
 
 75. Write a JavaScript program to create a new array taking the middle elements of the two arrays of integer and each length 3.  
-[img](./img/075.png)  
+![img](./img/075.png)  
 
 76. Write a JavaScript program to create a new array taking the first and last elements from a given array of integers and length must be greater or equal to 1.
 
@@ -175,24 +175,24 @@ For example 40 presents in 400 and 4000
 78. Write a JavaScript program to test if an array of integers of length 2 does not contain 1 or a 3.
 
 79. Write a JavaScript program to test if a given array of integers contains 30 and 40 twice. The array length should be 0, 1, or 2.  
-[img](./img/079.png)  
+![img](./img/079.png)  
 
 80. Write a JavaScript program to swap the first and last elements of a given array of integers. The array length should be at least 1.
 
 81. Write a JavaScript program to add two digits of a given positive integer of length two.  
-[img](./img/081.png)  
+![img](./img/081.png)  
 
 82. Write a JavaScript to add two positive integers without carry.  
-[img](./img/082.png)  
+![img](./img/082.png)  
 
 83. Write a JavaScript to find the longest string from an given array of strings.  
-[img](./img/083.png)  
+![img](./img/083.png)  
 
 84. Write a JavaScript to replace each character of a given string by the next one in the English alphabet.
 Note: 'a' will be replace by 'b' or 'z' would be replaced by 'a'.
 
 85. Write a JavaScript code to divide an given array of positive integers into two parts. First element goes to first part, second element goes to second part, and third element goes to first part and so on. Now compute the sum of two parts and store into an array of size two.  
-[img](./img/085.png)  
+![img](./img/085.png)  
 
 86. Write a JavaScript program to find the types of a given angle.
 > Types of angles:  
@@ -221,7 +221,7 @@ Note: 'a' will be replace by 'b' or 'z' would be replaced by 'a'.
 95. Write a JavaScript program to replace all the numbers with a specified number of a given array of integers.
 
 96. Write a JavaScript program to compute the sum of absolute differences of consecutive numbers of a given array of integers.  
-[img](./img/096.png)  
+![img](./img/096.png)  
 
 97. Write a JavaScript program to find the shortest possible string which can create a string to make it a palindrome by adding characters to the end of it.
 
@@ -238,12 +238,12 @@ Note: 'a' will be replace by 'b' or 'z' would be replaced by 'a'.
 Note: Two elements of the array a stored at positions i and j form an inversion if a[i] > a[j] and i < j.
 
 103. Write a JavaScript program to find the maximal number from a given positive integer by deleting exactly one digit of the given number.  
-[img](./img/103.png)  
+![img](./img/103.png)  
 
 104. Write a JavaScript program to find two elements of the array such that their absolute difference is not greater than a given integer but is as close to the said integer.
 
 105. Write a JavaScript program to find the number of times to replace a given number with the sum of its digits until it convert to a single digit number.  
-[img](./img/105.png)  
+![img](./img/105.png)  
 
 106. Write a JavaScript program to divide an integer by another integer as long as the result is an integer and return the result.
 
@@ -260,7 +260,7 @@ Note: The dot product is the sum of the products of the corresponding entries of
 110. Write a JavaScript program to find the number of even values in sequence before the first occurrence of a given number.
 
 111. Write a JavaScript program to check a number from three given numbers where two numbers are equal, find the third one.  
-[img](./img/111.png)  
+![img](./img/111.png)  
 
 112. Write a JavaScript program to find the number of trailing zeros in the decimal representation of the factorial of a given number.
 
@@ -314,17 +314,17 @@ Note: A square matrix is called lower triangular if all the entries above the ma
 127. Write a JavaScript program to reverse the order of the bits in a given integer.
 > 56 -> 111000 after reverse 7 -> 111  
 > 234 -> 11101010 after reverse 87 -> 1010111  
-[img](./img/127.png)  
+![img](./img/127.png)  
 
 128. Write a JavaScript program to find the smallest round number that is not less than a given value.
 > Note: A round number is informally considered to be an integer that ends with one or more zeros.[3]
 > So, 590 is rounder than 592, but 590 is less round than 600.  
-[img](./img/128.png)  
+![img](./img/128.png)  
 
 129. Write a JavaScript program to find the smallest prime number strictly greater than a given number.
 
 130. Write a JavaScript program to find the number of even digits in a given integer.
-[img](./img/130.png)  
+![img](./img/130.png)  
 
 131. Write a JavaScript program to create an array of prefix sums of the given array.
 In computer science, the prefix sum, cumulative sum, inclusive scan, or simply scan of a sequence of numbers x0, x1, x2, ... is a second sequence of numbers y0, y1, y2, ..., the sums of prefixes of the input sequence:
@@ -334,7 +334,7 @@ In computer science, the prefix sum, cumulative sum, inclusive scan, or simply s
 > ...
 
 132. Write a JavaScript program to find all distinct prime factors of a given integer.
-[img](./img/132.png)  
+![img](./img/132.png)  
 
 133. Write a JavaScript program to check whether a given fraction is proper or not.
 > Note: There are two types of common fractions, proper or improper. When the numerator and the denominator are both positive, the fraction is called proper if the numerator is less than the denominator, and improper otherwise.
@@ -351,7 +351,7 @@ In computer science, the prefix sum, cumulative sum, inclusive scan, or simply s
 
 139. Write a JavaScript program to find the position of a rightmost round number in an array of integers. Returns 0 if there are no round number.
 > Note: A round number is informally considered to be an integer that ends with one or more zeros.  
-[img](./img/139.png)  
+![img](./img/139.png)  
 
 140. Write a JavaScript program to check if all the digits in a given number are the same or not.
 
@@ -364,19 +364,19 @@ In computer science, the prefix sum, cumulative sum, inclusive scan, or simply s
 
 144. Write a JavaScript program to break an address of an url and put it's part into an array.
 > Note: url structure : ://.org[/] and there may be no part in the address.  
-[img](./img/144.png)  
+![img](./img/144.png)  
 
 145. Write a JavaScript program to find the maximum integer n such that 1 + 2 + ... + n <= an given integer.
 
 146. Write a JavaScript program to compute the sum of cubes of all integer from 1 to a given integer.
 
 147. Write a JavaScript program to compute the sum of all digits that occur in a given string.
-[img](./img/147.png)  
+![img](./img/147.png)  
 
 148. Write a JavaScript program to swap two halves of a given array of integers of even length.
-[img](./img/148.png)  
+![img](./img/148.png)  
 
 149. Write a JavaScript program to change the capitalization of all letters in a given string.
 
 150. Write a JavaScript program to swap pairs of adjacent digits of a given integer of even length.
-[img](./img/150.png)  
+![img](./img/150.png)  
